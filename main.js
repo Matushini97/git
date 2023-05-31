@@ -19,7 +19,7 @@ document.querySelector('#app').innerHTML = `
       Click on the Vit
     </p>
      <p class="read-the">
-      Cock jfvbsjb
+      Cock jfv 
     </p>
   </div>
 `
