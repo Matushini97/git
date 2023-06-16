@@ -21,7 +21,7 @@ document.querySelector('#app').innerHTML = `
     <div>chenge1</div>
     <div>chenge2</div>
      <p class="read-the">
-      Cock jfv 
+      changes
     </p>
   </div>
 `
